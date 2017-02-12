@@ -6,4 +6,4 @@
   - 坐标：杭州，中国
 
 - 目录：
-  - vim 那些好用的插件
+  - [vim 那些好用的插件](https://github.com/wangzhe1995/allaboutlife/issues/1)
